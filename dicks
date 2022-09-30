@@ -1,0 +1,34 @@
+//dick.cpp - see what type you are in bed.
+//name date
+
+#include <iostream> 
+using namespace std;
+
+int main()
+{
+int size = 0;
+int dick = 0;
+int titties = 0;
+char die = ' ';
+
+cout << "tits or ass?(T or A): "
+cin >> die;
+
+if (toupper(die) == 'A')
+    cout << "you are stupid." << endl;
+else 
+  {
+    cout << "How big of titties(out of 10): ";
+    cin >> tittiest;
+    cout << "gurth: "
+    cin >> dick;
+    cout << "Size: ";
+    cin >> size;
+
+    //prossing 
+    
+
+    cout << " Good luck sir" << endl;
+  }//end if
+return0
+}
